@@ -1,3 +1,5 @@
+Deprecated, use https://github.com/nimiq/rpc and https://github.com/nimiq/rpc-events instead.
+
 # Boruca
 ### Transparent Cross-Window Remote Procedure Calling (RPC)
 
